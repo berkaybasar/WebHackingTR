@@ -1,6 +1,6 @@
 <h1>WebHacking TÜRKÇE</h1><br>
 <b>Web Hacking'i Türkçe Anlatım ve Uygulamasının Nasıl Yapıldığını ve Zafiyetlerin Nasıl Sömürü Edilebiliceğini Öğreniceksiniz !</b><br><br>
-<b>Zayifetleri Yapacağımız Lab'ımız bWAPP kurulumu</b>
+<b>Zafiyetleri İşliyeceğimiz Lab'ımız bWAPP kurulumu</b>
 <a href="https://www.youtube.com/watch?v=f0H38DBTzN8">bWAPP Kurulumu ( Web Güvenlik Zafiyetleri)</a>
 <h1>A1 İnjection</h1><br><p>HTML İnjection</p>
 <a href="https://www.youtube.com/watch?v=T4OET0rRNFE">1 HTML Injection - Reflected GET </a><br>
